@@ -1,22 +1,34 @@
 # Hi, I'm Sudhir 👋
 
-**CS Student building Windows tools, Android apps & web experiences**
+**Vibe Coder | I don't code traditionally — I build real tools with AI**
 
-I like turning ideas into working software — from system utilities that run 24/7 to mobile apps and creative web UIs. Currently learning in public and leveling up as a full-stack + mobile developer.
+I don't come from a programming background. I use AI to design, build, and ship working tools — from Windows system utilities to Android apps and creative web experiences. Idea → iterate with AI → test → ship.
 
 ---
 
-### 🚀 What I'm building
+### 🚀 Public Projects
 
-| Project | What it does | Stack |
+| Project | What it does | Built with (via AI) |
 |---|---|---|
 | [WinSysMonitor](https://github.com/4sudosu/WinSysMonitor) | Monitor & manage Windows PCs from phone/browser over LAN — no cloud, no subscription. Agent + server dashboard + Android app. | C# .NET 8 · Node.js · Kotlin |
 | [windows-remote-toolkit](https://github.com/4sudosu/windows-remote-toolkit) | Remote Windows monitoring & control: live screen, shell, processes, files, camera/mic — from Android. Deploys to Render free tier. | Kotlin · Node.js · WebSockets |
-| Portfolio OS *(coming soon)* | Win7-style interactive portfolio with admin dashboard + Gemini AI integration. | TypeScript · Next.js · Gemini API |
 
 ---
 
-### 🛠️ Tech Stack
+### 🔒 Private Projects
+
+> Source kept private to prevent unfair use / copying. Public builds & releases shared where available.
+
+| Project | Main features |
+|---|---|
+| **Portfolio OS** 🔒 Private | Win7-style interactive portfolio OS with admin dashboard + Gemini AI integration. |
+| **WinSysMonitor V2** 🔒 Private (binary releases) | LAN monitoring V2 — protected-window capture, custom service name, temp album, V2 update gate, live notifications. Server + dashboard + Android 2.0. |
+| **WindowRemoteToolkit V2** 🔒 Private (binary releases) | Remote monitoring & control V2 — protected-window screenshots, temp album, update gate, live notifications. Server + dashboard. |
+| **Full source repos** 🔒 Private | Complete agent + app + server + installers + docs for both toolkits. AI-maintained handoff READMEs inside. |
+
+---
+
+### 🛠️ What I ship with (via AI)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,7 +37,10 @@ I like turning ideas into working software — from system utilities that run 24
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+*I direct and review everything — AI helps me write the code.*
 
 ---
 
@@ -38,15 +53,16 @@ I like turning ideas into working software — from system utilities that run 24
 
 ### 🌱 Currently
 
-- 📚 Learning: Full-stack web + Android + system programming
-- 🔭 Focus: Making my Windows tools stable, secure, and easy to deploy
-- 💡 Open to: Student collabs, feedback, and internship opportunities
+- 🤖 Vibe-coding new versions of my Windows tools with AI
+- 🔭 Focus: Making them stable, secure, and easy to deploy
+- 📚 Learning: How software actually works — networking, Windows services, mobile apps
+- 💡 Open to: Feedback, ideas, and collabs with other builders
 
 ---
 
 ### 📫 Connect
 
 - GitHub: [@4sudosu](https://github.com/4sudosu)
-- 💬 Best way to reach me: open an issue on any of my repos
+- 💬 Best way to reach me: open an issue on any public repo
 
-*Student. Builder. Always shipping v2.* 🚢
+*No CS degree. Just ideas + AI + shipping.* 🚢
