@@ -44,13 +44,6 @@ I don't come from a programming background. I use AI to design, build, and ship 
 
 ---
 
-### 📊 GitHub Stats
-
-![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=4sudosu&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4sudosu&layout=compact&hide_border=true)
-
----
-
 ### 🌱 Currently
 
 - 🤖 Vibe-coding new versions of my Windows tools with AI
